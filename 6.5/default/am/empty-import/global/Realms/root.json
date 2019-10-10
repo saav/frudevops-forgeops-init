@@ -11,6 +11,6 @@
     "parentPath" : null,
     "active" : true,
     "name" : "/",
-    "aliases" : [ "am-config", "openam", "login.frudevops-savin.example.com" ]
+    "aliases" : [ "openam", "am-config", "login.frudevops-savin.example.com" ]
   }
 }

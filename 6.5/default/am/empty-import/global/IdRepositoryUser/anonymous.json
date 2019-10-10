@@ -9,9 +9,9 @@
   "data" : {
     "_id" : "anonymous",
     "userPassword" : null,
-    "userPassword-encrypted" : "AAAAA0FFUwIQgvuNdpAMC285weOXH+RWc6lkuar8VkqDaM2Qf+ZciANI3Qk75iDJWc2a44yeEuuTM38JhVIfSuw=",
-    "givenName" : "anonymous",
+    "userPassword-encrypted" : "AAAAA0FFUwIQ6XpVjob29xidrXgpS4f14BNMeQ3CskREivec8crSMHsdxbl87YSMMh3ywKE5PmTwBK+pIKxy5m8=",
     "roles" : [ ],
+    "givenName" : "anonymous",
     "dn" : "uid=anonymous,ou=people,",
     "cn" : "anonymous",
     "inetUserStatus" : "Active",
